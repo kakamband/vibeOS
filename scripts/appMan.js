@@ -128,6 +128,11 @@ var startEntries = [
 					},
 				},
 				{
+					value: 'Linuxterm',
+					icon: 'categories/16/package_settings.png',
+					func: initLinuxTerm,
+				},
+				{
 					value: 'Basic render task',
 					icon: 'mimetypes/16/text-x-generic.png',
 					func: initTranscript,
